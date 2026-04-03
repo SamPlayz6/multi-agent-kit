@@ -1,0 +1,17 @@
+{
+  "project": "07-multi-agent-kit",
+  "phase": "launch",
+  "steps": [
+    { "id": 1, "name": "Write 5 agent templates (Manager, Builder, Sales, Social, Ops)", "status": "done" },
+    { "id": 2, "name": "Create orchestration scripts (open-employee.sh, watcher.py)", "status": "done" },
+    { "id": 3, "name": "Write setup guide (Zero to AI Employees in 30 Minutes)", "status": "done" },
+    { "id": 4, "name": "Write dev.to blog post (free lead magnet)", "status": "done" },
+    { "id": 5, "name": "Create Gumroad/Lemon Squeezy product listing", "status": "pending" },
+    { "id": 6, "name": "Publish blog post on dev.to", "status": "pending" },
+    { "id": 7, "name": "Post on r/ClaudeCode + HN", "status": "pending" }
+  ],
+  "current_step": 5,
+  "blocked_on": "Need Gumroad or Lemon Squeezy account for product listing",
+  "handoff_notes": "All content created: 5 CLAUDE.md templates, 2 scripts, setup guide, dev.to blog post. Product is complete. Just needs Gumroad listing and publishing the blog post.",
+  "last_updated": "2026-04-03T12:00:00Z"
+}
